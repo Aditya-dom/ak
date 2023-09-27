@@ -1,4 +1,4 @@
-# ak
+
 # Personal Website
 
 This is a repository containing all the files used for the making of this website.
