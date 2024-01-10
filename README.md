@@ -14,4 +14,4 @@ Libraries used-
  -  parallax.js
  
  ## Here's a snapshot:-
- ![](images/ss.png)
+ ![](images/ss.jpeg)
